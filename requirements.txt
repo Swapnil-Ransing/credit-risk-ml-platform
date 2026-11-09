@@ -4,3 +4,4 @@ scikit-learn
 jupyter
 pytest
 boto3
+pyspark==3.5.6
